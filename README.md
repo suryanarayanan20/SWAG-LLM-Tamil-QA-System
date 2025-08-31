@@ -35,7 +35,7 @@ This project is a Final Year Research Work focused on building a **Query-Respons
 
 ## 📊 Dataset Format
 
-Each input is in `<Query, Response>` pair format, converted into WordPiece embeddings and fed into SWAG architecture.
+Each input is in <Query, Response> pair format, converted into WordPiece embeddings and fed into SWAG architecture.
 
 - CLS token: used for classification  
 - SEP token: separates query from response
@@ -44,8 +44,9 @@ Each input is in `<Query, Response>` pair format, converted into WordPiece embed
 
 ## 🖼 Architecture (From Report)
 
- Architecture Diagram here  
-**_![Architecture]([architecture.png](https://drive.google.com/file/d/1dfRxI2F6QbeqC-OLOqr7ZLPMF-TWsinF/view?usp=sharing))_**
+## 🏗️ Architecture Diagrams
+[![Architecture Diagram 1](https://img.shields.io/badge/Architecture%20Diagram%201-view%20on%20Drive-blue?style=for-the-badge&logo=google-drive)](https://drive.google.com/file/d/1kPN-YbF-bT19FOGwxsJKGKaw5MdShzUf/view?usp=drive_link)  
+[![Architecture Diagram 2](https://img.shields.io/badge/Architecture%20Diagram%202-view%20on%20Drive-blue?style=for-the-badge&logo=google-drive)](https://drive.google.com/file/d/10TSaNKWlw8r31FE3njhQvmz3NyI1w4xP/view?usp=drive_link)
 
 ---
 
@@ -62,10 +63,11 @@ Each input is in `<Query, Response>` pair format, converted into WordPiece embed
 > This project was developed as part of B.E CSE Final Year Research Work (2025) under the guidance of [Thivaharan].
 
 ---
+>## 🎥 Demo Video  
+[![Demo Video](https://img.shields.io/badge/Demo%20Video-view%20on%20Drive-red?style=for-the-badge&logo=google-drive)](https://drive.google.com/file/d/1G099bz2vhskxDhVxSvC8bQOJqq-TxRbH/view?usp=drive_link)
 
 ## 📄 Paper / Report
-
-If you want to read the full paper, click [here]([[link-to-your-pdf-drive-or-website](https://drive.google.com/file/d/1aA2BA36cj9W8Rq8865E8v6Bd-4ASMunI/view?usp=drivesdk)](https://drive.google.com/file/d/1JFIMy-nI-H3yahjZ2cA25ADhfY5Mignh/view?usp=sharing))
+[![Patent Publication](https://img.shields.io/badge/Patent%20Publication-view%20on%20Drive-green?style=for-the-badge&logo=google-drive)](https://drive.google.com/file/d/1EuzM8frbSM9_psxXouDCEaNt1WkMV-kq/view?usp=drive_link)
 
 ---
 
