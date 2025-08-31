@@ -17,7 +17,7 @@ It integrates state-of-the-art NLP techniques to improve contextual understandin
 - PyTorch
 - Scikit-learn
 - Pandas, NumPy
-- Streamlit / Flask (for deployment)
+- Flask (for deployment)
 
 ---
 
@@ -48,17 +48,17 @@ It integrates state-of-the-art NLP techniques to improve contextual understandin
 ## ⚡ Installation & Usage
 
 ```bash
-# Clone the repository
+# Clone the repository (only if you haven't)
 git clone https://github.com/suryanarayanan20/SWAG-LLM-Tamil-QA-System.git
 cd SWAG-LLM-Tamil-QA-System
 
-# Create virtual environment (Windows)
-py -3 -m venv .venv
-.venv\Scripts\Activate.ps1
-
-# or macOS/Linux
+# Create virtual environment (macOS/Linux)
 python3 -m venv .venv
 source .venv/bin/activate
+
+# Windows (PowerShell)
+py -3 -m venv .venv
+.venv\Scripts\Activate.ps1
 
 # Install dependencies
 pip install -r requirements.txt
