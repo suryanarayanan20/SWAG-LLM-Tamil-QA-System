@@ -44,8 +44,8 @@ Each input is in `<Query, Response>` pair format, converted into WordPiece embed
 
 ## 🖼 Architecture (From Report)
 
-You can upload a PNG/JPEG of your architecture diagram here  
-**_`![Architecture]([architecture.png](https://drive.google.com/file/d/1dfRxI2F6QbeqC-OLOqr7ZLPMF-TWsinF/view?usp=sharing))`_**
+ Architecture Diagram here  
+**_![Architecture]([architecture.png](https://drive.google.com/file/d/1dfRxI2F6QbeqC-OLOqr7ZLPMF-TWsinF/view?usp=sharing))_**
 
 ---
 
